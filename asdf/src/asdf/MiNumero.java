@@ -42,7 +42,7 @@ public class MiNumero {
         System.out.println("El doble, triple y cuadruplé del siguiente numero: " + numero.getNumero());
         System.out.println("El doble: " + numero.doble());
         System.out.println("El triple: " + numero.triple());
-        System.out.println("El cuadruple: " + numero.cuadruple());
+        System.out.println("El quintuple: " + numero.quintuple());
     }
 
 }
