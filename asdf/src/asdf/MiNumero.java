@@ -25,8 +25,8 @@ public class MiNumero {
         return (3 * numero);
     }
 
-    public double cuadruple() {
-        return (4 * numero);
+    public double quintuple() {
+        return (5 * numero);
     }
 
     public double getNumero() {
